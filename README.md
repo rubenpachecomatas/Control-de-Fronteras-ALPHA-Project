@@ -1,2 +1,2 @@
 # Control-de-Fronteras-ALPHA-Project
-Trabajo CRUD progrmación.
+Trabajo CRUD programación.
