@@ -27,7 +27,7 @@ Primera vista del CRUD, desde aquí puedes entrar a los diferentes perfiles de l
 
 ## Sign In
 
-<img src="Capturas/resgistro.png" alt="signin">
+<img src="Capturas/registro.png" alt="signin">
 
 Pantalla de registro de los trabajadores, desde aquí el usuario puede crear nuevos perfiles.
 
