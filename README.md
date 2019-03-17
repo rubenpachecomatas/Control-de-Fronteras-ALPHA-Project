@@ -5,6 +5,7 @@
 ## ¡Bienvenido al control de fronteras de NeoAlpha!
 
 Se trata de un CRUD que controla las personas que salen y entran dentro una utopía futurística ficticia.
+Vídeo explicativo: https://www.youtube.com/watch?v=6n3tz28sn74&feature=youtu.be
 
 ## Índice
 1. DATABASE
